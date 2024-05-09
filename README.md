@@ -7,7 +7,10 @@ This script uses Python to trace the path of two players and check if they were 
 Requirements:
 
 Python 3
-pandas (A Python library for data manipulation and analysis) Install the required Python packages using: "pip install pandas".
+- pandas (A Python library for data manipulation and analysis), 
+Install the required Python packages using: "pip install pandas".
+
+
 MIT License
 
 Copyright (c) [2024] [Daniel A.]
